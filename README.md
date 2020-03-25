@@ -2,7 +2,7 @@
 【Functions&Features】
   1.Customed-parameter player! Provided screensize、title、threadnumber etc.;
   2.Portable and light-weight video player,less than 20MB space needed;
-  3.All CPU-decode, though it is not effective, but it is the most compatible choice for video-play;
+  3.Auto-scaned GPU Hardware decode--Intel,AMD or nVIDIA GPUs;
   4.Lifelong update! It will be updated every month-not now(since it had full-developed).
 【Develop Environment】
   Just nothing and start edit! This program is written with BATCH, so a notepad is enough! Sure,notepad++ is also a good choice.
@@ -12,7 +12,7 @@
 【Update】
   This project will update automatically every time when you start it.If it does not work, you may download the latest version from GitHub.
 【Review version】
-  I will not keep any old version since they have less functions and more bugs.And there is no need to worry because this program have a strong portability.
+  I will not keep any old version since they have less functions and more bugs.Also, I do not recommand to download an old version though they are in GitHub.And there is no need to worry because this program have a strong portability.
 【Runtime】
   To have the best experience, make sure that you have a partition "D:\" and use admin mode to run the main program.
 【Serial Key】
