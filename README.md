@@ -7,7 +7,7 @@
 【Develop Environment】
   Just nothing and start edit! This program is written with BATCH, so a notepad is enough! Sure,notepad++ is also a good choice.
 【Project】
-  To use the main program, please extract the .rar file in \ffmpeg floder;
+  To use the main program, please extract the .rar file in \ffmpeg floder, those files are in the "ffmpeg" branch;
   The all .bat files would be edited.You may see a .vbs file,do not edit them since they are created by a batch file.
 【Update】
   This project will update automatically every time when you start it.If it does not work, you may download the latest version from GitHub.
