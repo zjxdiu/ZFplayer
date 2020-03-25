@@ -1,4 +1,4 @@
-# Z-Player
+# ZFlayer
 【Functions&Features】
   1.Customed-parameter player! Provided screensize、title、threadnumber etc.;
   2.Portable and light-weight video player,less than 20MB space needed;
@@ -7,6 +7,7 @@
 【Develop Environment】
   Just nothing and start edit! This program is written with BATCH, so a notepad is enough! Sure,notepad++ is also a good choice.
 【Project】
+  To use the main program, please extract the .rar file in \ffmpeg floder;
   The all .bat files would be edited.You may see a .vbs file,do not edit them since they are created by a batch file.
 【Update】
   This project will update automatically every time when you start it.If it does not work, you may download the latest version from GitHub.
